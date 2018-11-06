@@ -13,5 +13,8 @@ public class Cos {
         this.number = number;
     }
 
-    public void myMethod(){}
+    public void myMethod(){
+        System.out.println("elo");
+    }
 }
+
