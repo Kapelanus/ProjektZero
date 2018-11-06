@@ -14,7 +14,6 @@ public class Cos {
     }
 
     public void myMethod(){
-        System.out.println("elo");
     }
 }
 
