@@ -13,5 +13,4 @@ public class Cos {
         this.number = number;
     }
 
-    public void myMethod(){}
 }
