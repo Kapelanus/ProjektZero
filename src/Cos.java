@@ -12,4 +12,6 @@ public class Cos {
     public void setNumber(int number) {
         this.number = number;
     }
+
+    public void myMethod(){}
 }
